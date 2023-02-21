@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <div align="center">  
 
-##  Hi, I'm Deivide!:
+##  Hi, I'm Deivide!
   
   <p align="center">
     I'm a Fullstack Developer :smile:    
@@ -18,7 +18,12 @@
 </div>
 
 
+<div align="center"> 
+  
 ## What I don't know, give me a few days 📅
+  
+</div>
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Deivideazevedo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Deivide Azevedo github stats" /> 
