@@ -1,13 +1,21 @@
-# Hi, I'm Deivide!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<div align="center">  
+
+##  Hi, I'm Deivide!:
+  
+  <p align="center">
+    I'm a Fullstack Developer :smile:    
+  </p>
+  
+  <p align="center">
+    I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
+  </p>
+  
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github/Deivideazevedo)](https://github.com/Deivideazevedo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deivide-azevedo-281561145/)](https://www.linkedin.com/in/deivide-azevedo-281561145/)
 
-## About me:
-
-I'm a Fullstack Developer :smile:<br>
-I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
-<br>
+</div>
 
 
 ## What I don't know, give me a few days 📅
