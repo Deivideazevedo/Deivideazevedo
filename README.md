@@ -31,6 +31,7 @@
 </div>
 
 ### Languages:
+![Static Badge](https://img.shields.io/badge/Python-%23ffda4d?style=for-the-badge&logo=PYTHON&logoColor=%23ffda4d&labelColor=black&color=black)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117&textColor=0D1117)&nbsp;
  
