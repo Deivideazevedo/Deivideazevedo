@@ -2,8 +2,7 @@
 <div align="center">  
 
 ##  Hi, I'm Deivide!
-  
-  <-- <p align="center"> I'm a Fullstack Developer :smile:    </p> -->
+
   
   <p align="center">
     I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
