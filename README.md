@@ -24,8 +24,8 @@
 <!-- CARDS CENTRAIS PRINCIPAIS (STREAK + STATS & STARS COM RANK A+) -->
 <!-- ============================================================ -->
 <div align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Deivideazevedo&theme=dark&background=0D1117&border=00BFBF&stroke=00BFBF&ring=00BFBF&fire=00BFBF&currStreakNum=00BFBF&sideNums=00BFBF&currStreakLabel=00BFBF" alt="Streak Stats" />
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Deivideazevedo&show_icons=true&theme=dark&bg_color=0D1117&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&border_color=00bfbf" alt="GitHub Stats & Stars" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Deivideazevedo&theme=dark&background=0D1117&border=E4E2E2&stroke=00BFBF&ring=00BFBF&fire=00BFBF&currStreakNum=00BFBF&sideNums=00BFBF&currStreakLabel=00BFBF" alt="Streak Stats" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Deivideazevedo&show_icons=true&theme=dark&bg_color=0D1117&title_color=00BFBF&icon_color=00BFBF&text_color=c9d1d9&ring_color=00BFBF" alt="GitHub Stats & Stars" />
 </div>
 
 <br>
@@ -33,13 +33,11 @@
 ### 💻 Languages & Frameworks:
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)&nbsp;
 
 ### 🗄️ Databases & Data Engineering:
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC292B)&nbsp;
