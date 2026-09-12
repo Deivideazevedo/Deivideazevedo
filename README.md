@@ -1,61 +1,70 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 <div align="center">  
 
-##  Hi, I'm Deivide!
+# Hi, I'm Deivide Azevedo 👋
+### Full-Stack Software Developer & Software Engineering Student
 
-  
-  <p align="center">
-    I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
-  </p>
-  
+<p align="center">
+  I enjoy writing clean code, building reliable software, and learning whatever it takes to solve the problem.
+</p>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github/Deivideazevedo)](https://github.com/Deivideazevedo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deivide-azevedo-281561145/)](https://www.linkedin.com/in/deivide-azevedo-281561145/)
+[![Github Badge](https://img.shields.io/badge/-Github-0D1117?style=flat-square&logo=Github&logoColor=white)](https://github.com/Deivideazevedo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deivide-azevedo-281561145/)
 
 </div>
-
 
 <div align="center"> 
   
-## What I don't know, give me a few days 📅
+##  "What I don't know, give me a few days"
   
 </div>
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Deivideazevedo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Deivide Azevedo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivideazevedo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-### Languages:
-![Static Badge](https://img.shields.io/badge/Python-%23ffda4d?style=for-the-badge&logo=PYTHON&logoColor=%23ffda4d&labelColor=black&color=black)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117&textColor=0D1117)&nbsp;
- 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=0076c6&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=00adef&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=e43a00&labelColor=0D1117)&nbsp;
-
-  
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-<!-- ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp; -->
-<!-- ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; -->
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
+<!-- ============================================================ -->
+<!-- CARDS CENTRAIS PRINCIPAIS (STREAK + STATS & STARS COM RANK A+) -->
+<!-- ============================================================ -->
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Deivideazevedo}/count.svg" style="color:blue;" /></p> 
-<br></div>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Deivideazevedo&theme=dark&background=0D1117&border=00BFBF&stroke=00BFBF&ring=00BFBF&fire=00BFBF&currStreakNum=00BFBF&sideNums=00BFBF&currStreakLabel=00BFBF" alt="Streak Stats" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Deivideazevedo&show_icons=true&theme=dark&bg_color=0D1117&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&border_color=00bfbf" alt="GitHub Stats & Stars" />
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<br>
+
+### 💻 Languages & Frameworks:
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
+
+### 🗄️ Databases & Data Engineering:
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC292B)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=2D3748)&nbsp;
+
+### 🛠️ Tools & DevOps:
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)&nbsp;
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37)&nbsp;
+
+<br>
+
+<!-- ============================================================ -->
+<!-- CONTADOR TERMINAL NEON #00BFBF COMPACTO E CENTRALIZADO       -->
+<!-- ============================================================ -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00BFBF&center=true&vCenter=true&width=390&height=28&lines=SELECT+COUNT(*)+FROM+visitors%3B;Compiling+profile+metrics...;Welcome+to+my+repository!" alt="Typing SVG" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Deivideazevedo&color=00bfbf&style=flat-square&label=TOTAL+HITS" alt="Terminal Counter" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer"/>
+
+---
